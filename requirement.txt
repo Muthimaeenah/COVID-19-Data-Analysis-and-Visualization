@@ -1,0 +1,11 @@
+pandas: For data loading, cleaning, and analysis.
+
+matplotlib: To create line plots, bar charts, histograms, etc.
+
+seaborn:  For more advanced and visually appealing plots.
+
+numpy – Useful for numerical operations and data manipulation.
+
+plotly – (Optional) For interactive plots like choropleth maps.
+
+jupyter – To run your notebook locally (.ipynb file).
